@@ -101,7 +101,7 @@
   <path class="line" d="M325 638 V654 C325 668 170 654 170 670" marker-end="url(#arrow)"/>
   <path class="line" d="M325 638 V670" marker-end="url(#arrow)"/>
   <path class="line" d="M325 638 V654 C325 668 480 654 480 670" marker-end="url(#arrow)"/>
-  <text class="tiny" x="104" y="724">保留重点：每层 3-5 个因子，底层必须能对应产品动作</text>
+  <text class="tiny" x="104" y="724">保留重点：每层 3-5 个因子，底层必须能对应行动或指标</text>
 
   <!-- B2 -->
   <rect class="card" x="640" y="490" width="520" height="250"/>
@@ -166,13 +166,13 @@
   <rect class="green" x="1246" y="834" width="46" height="28" rx="6"/><text class="badgeText" x="1258" y="854">C3</text>
   <text class="cardTitle" x="1308" y="854">市场格局 / 生态地图</text>
   <text class="note" x="1308" y="878">适合：直接竞品、替代方案、上下游、渠道与伙伴</text>
-  <circle cx="1480" cy="960" r="42" fill="#dcfce7" stroke="#22c55e"/><text class="label" x="1455" y="964">我方产品</text>
+  <circle cx="1480" cy="960" r="42" fill="#dcfce7" stroke="#22c55e"/><text class="label" x="1455" y="964">核心对象</text>
   <circle cx="1355" cy="930" r="32" fill="#f8fafc" stroke="#98a2b3"/><text class="tiny" x="1336" y="934">直接竞品</text>
   <circle cx="1605" cy="930" r="32" fill="#f8fafc" stroke="#98a2b3"/><text class="tiny" x="1586" y="934">替代方案</text>
   <circle cx="1365" cy="1010" r="32" fill="#f8fafc" stroke="#98a2b3"/><text class="tiny" x="1349" y="1014">渠道</text>
   <circle cx="1595" cy="1010" r="32" fill="#f8fafc" stroke="#98a2b3"/><text class="tiny" x="1579" y="1014">伙伴</text>
   <path class="line" d="M1438 960 L1384 940"/><path class="line" d="M1522 960 L1576 940"/><path class="line" d="M1442 978 L1390 1000"/><path class="line" d="M1518 978 L1570 1000"/>
-  <text class="tiny" x="1264" y="1044">保留重点：中心是我方/用户问题，外圈按关系类型分层</text>
+  <text class="tiny" x="1264" y="1044">保留重点：中心是核心对象/问题，外圈按关系类型分层</text>
 
   <!-- D1 -->
   <rect class="card" x="60" y="1130" width="520" height="250"/>

@@ -1,0 +1,4 @@
+interface:
+  display_name: "结构化表达设计助手"
+  short_description: "把复杂内容转成清晰、可编辑、可复用的结构化图形方案"
+  default_prompt: "使用 $structured-expression-designer 分析这段内容，推荐合适的结构化表达方式并生成可编辑图形。"
