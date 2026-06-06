@@ -152,3 +152,8 @@ structured-expression-designer/
 - 对应哪个模板和输出格式
 
 Skill 只沉淀可复用的结构和设计原则，不逐像素复制受版权保护的完整设计。
+
+## Contributors
+
+- [hankchn](https://github.com/hankchn) — 项目发起、需求定义与维护
+- [Codex](https://github.com/codex) — 结构设计、文档与实现协作

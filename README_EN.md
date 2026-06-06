@@ -154,3 +154,8 @@ High-quality examples are welcome. Before a case is added to the Skill, it shoul
 - Which template and output format it belongs to
 
 The Skill captures reusable structure and design principles. It does not reproduce complete copyrighted designs pixel by pixel.
+
+## Contributors
+
+- [hankchn](https://github.com/hankchn) — Project direction, requirements, and maintenance
+- [Codex](https://github.com/codex) — Structure design, documentation, and implementation support
